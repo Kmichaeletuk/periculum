@@ -1,0 +1,14 @@
+C:\Users\kufre\Documents\CSharpReduxCounter\bin\Debug\net9.0\CSharpReduxCounter.exe
+C:\Users\kufre\Documents\CSharpReduxCounter\bin\Debug\net9.0\CSharpReduxCounter.deps.json
+C:\Users\kufre\Documents\CSharpReduxCounter\bin\Debug\net9.0\CSharpReduxCounter.runtimeconfig.json
+C:\Users\kufre\Documents\CSharpReduxCounter\bin\Debug\net9.0\CSharpReduxCounter.dll
+C:\Users\kufre\Documents\CSharpReduxCounter\bin\Debug\net9.0\CSharpReduxCounter.pdb
+C:\Users\kufre\Documents\CSharpReduxCounter\obj\Debug\net9.0\CSharpReduxCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kufre\Documents\CSharpReduxCounter\obj\Debug\net9.0\CSharpReduxCounter.AssemblyInfoInputs.cache
+C:\Users\kufre\Documents\CSharpReduxCounter\obj\Debug\net9.0\CSharpReduxCounter.AssemblyInfo.cs
+C:\Users\kufre\Documents\CSharpReduxCounter\obj\Debug\net9.0\CSharpReduxCounter.csproj.CoreCompileInputs.cache
+C:\Users\kufre\Documents\CSharpReduxCounter\obj\Debug\net9.0\CSharpReduxCounter.dll
+C:\Users\kufre\Documents\CSharpReduxCounter\obj\Debug\net9.0\refint\CSharpReduxCounter.dll
+C:\Users\kufre\Documents\CSharpReduxCounter\obj\Debug\net9.0\CSharpReduxCounter.pdb
+C:\Users\kufre\Documents\CSharpReduxCounter\obj\Debug\net9.0\CSharpReduxCounter.genruntimeconfig.cache
+C:\Users\kufre\Documents\CSharpReduxCounter\obj\Debug\net9.0\ref\CSharpReduxCounter.dll
